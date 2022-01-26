@@ -1,0 +1,13 @@
+com/bijoy/customerrecicler/ContactViewHolder.java
+ com.bijoy.customerrecicler.ContactViewHolder
+com/bijoy/customerrecicler/Contact.java
+ com.bijoy.customerrecicler.Contact
+com/bijoy/customerrecicler/BuildConfig.java
+ com.bijoy.customerrecicler.BuildConfig
+com/bijoy/customerrecicler/DetailsActivity.java
+ com.bijoy.customerrecicler.DetailsActivity
+com/bijoy/customerrecicler/MainActivity.java
+ com.bijoy.customerrecicler.MainActivity
+com/bijoy/customerrecicler/ContactAdapter.java
+ com.bijoy.customerrecicler.ContactAdapter
+ com.bijoy.customerrecicler.ContactAdapter$1
